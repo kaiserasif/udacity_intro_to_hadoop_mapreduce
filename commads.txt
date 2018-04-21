@@ -1,0 +1,13 @@
+all are done in cloudera hadoop image
+to transfer files ifconfig in cloudera, use that ip training@ip, pass training
+
+to run:
+hs mapper.py reducer.py data_path/in/hadoop output/to_create/in/hadoop
+
+to retrive result:
+hadoop fs -get output/to_create/in/hadoop path/in/local/filesystem
+
+other commands
+hadoop fs -put localfile hadooppath
+hadoop fs -ls
+hadoop fs -mkdir

@@ -1,0 +1,10 @@
+11622	cs101
+4952	cs373
+4542	cs253
+3560	discussion
+2664	meta
+2009	cs212
+1682	homework
+1651	bug
+1561	cs262
+1489	st101
